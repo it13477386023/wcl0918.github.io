@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://https://wcl0918.github.io/</id>
-    <title>Wcl0918</title>
-    <updated>2021-03-02T07:42:23.275Z</updated>
+    <title>wcl0918</title>
+    <updated>2021-03-02T07:47:01.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://https://wcl0918.github.io/"/>
     <link rel="self" href="https://https://wcl0918.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://https://wcl0918.github.io/images/avatar.png</logo>
     <icon>https://https://wcl0918.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Wcl0918</rights>
+    <rights>All rights reserved 2021, wcl0918</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://https://wcl0918.github.io/post/hello-gridea/</id>
